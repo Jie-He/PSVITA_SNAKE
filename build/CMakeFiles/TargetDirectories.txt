@@ -1,0 +1,5 @@
+/d/Scripts/Vita/Snake/build/CMakeFiles/edit_cache.dir
+/d/Scripts/Vita/Snake/build/CMakeFiles/Snake.vpk.dir
+/d/Scripts/Vita/Snake/build/CMakeFiles/Snake.dir
+/d/Scripts/Vita/Snake/build/CMakeFiles/rebuild_cache.dir
+/d/Scripts/Vita/Snake/build/CMakeFiles/Snake.self.dir
