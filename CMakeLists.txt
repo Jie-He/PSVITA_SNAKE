@@ -27,7 +27,7 @@ include("${VITASDK}/share/vita.cmake" REQUIRED)
 set(VITA_APP_NAME "Snake")
 # Unique ID must be exactly 9 characters. Recommended: XXXXYYYYY where X = 
 # unique string of developer and Y = a unique number for this app
-# welp, lets do NEKOYYYYY. 0 is used for starter
+# welp, lets do NEKOYYYYY.
 set(VITA_TITLEID  "NEKO00002") 
 # Optional version string to show in LiveArea's more info screen
 set(VITA_VERSION  "01.00")
