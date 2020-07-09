@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/d/Scripts/Vita/Snake/src/font.c
+C:/Users/jiehe/Documents/Scripts/Vita/Snake/src/font.c
 
-/d/Scripts/Vita/Snake/src/main.c
+C:/Users/jiehe/Documents/Scripts/Vita/Snake/src/main.c
 psp2/kernel/processmgr.h
 -
 psp2/ctrl.h

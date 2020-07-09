@@ -1,8 +1,9 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Snake.dir/src/font.c.obj"
   "CMakeFiles/Snake.dir/src/main.c.obj"
-  "Snake.pdb"
   "Snake"
+  "Snake.manifest"
+  "Snake.pdb"
 )
 
 # Per-language clean rules from dependency scanning.
